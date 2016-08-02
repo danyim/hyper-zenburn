@@ -1,22 +1,26 @@
-# hyperterm-zenburn2
+# HyperTerm Zenburn
 
-# Zenburn theme for Hyperterm
-
-A [Hyperterm](https://hyperterm.org/) theme based on the [Zenburn](http://kippura.org/zenburnpage/) theme by Jani Nurminen.
+A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http://kippura.org/zenburnpage/) vim theme by Jani Nurminen.
 
 ![http://i.imgur.com/vqtk8Bl.png](http://i.imgur.com/vqtk8Bl.png)
 ![http://i.imgur.com/LDkWYzT.png](http://i.imgur.com/LDkWYzT.png)
 
 ### Installation
-1. Open HyperTerm's preferences by pressing `Cmd+,` or manually at `~/.hyperterm.js`.
-2. Add `hyperterm-zenburn2` to the array of hyperterm plugins.
+1. Open HyperTerm's preferences by pressing `Cmd + ,` or point your text editor to `~/.hyperterm.js`
+2. Add `hyperterm-zenburn2` to the array of HyperTerm plugins.
 
   ```js
   plugins: [
-    'hyperterm-zenburn2'
+    ...
+    'hyperterm-zenburn2',
+    ...
   ],
   ```
-3. Reload HyperTerm by pressing `Cmd + Shft + R`
+3. Reload HyperTerm by pressing `Cmd + Shift + R`
+
+### Related Projects
+- [danyim@/Zenburned](https://github.com/danyim/Zenburned/blob/master/.hyperterm.js) - Includes the full `.hyperterm.js` with this theme's settings
+
 
 ### License
 MIT
