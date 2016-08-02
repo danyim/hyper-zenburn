@@ -1,0 +1,25 @@
+{
+  "name": "hyperterm-zenburn2",
+  "version": "1.0.2",
+  "description": "A hyperterm theme based on the Zenburn theme by Jani Nurminen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danyim/hyperterm-zenburn.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "theme",
+    "zenburn",
+    "hyperterm-theme"
+  ],
+  "author": "Rommert Zijlstra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danyim/hyperterm-zenburn/issues"
+  },
+  "homepage": "https://github.com/danyim/hyperterm-zenburn#readme"
+}
