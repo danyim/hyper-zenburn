@@ -1,7 +1,7 @@
 const backgroundColor = '#3d3d3d'
+const foregroundColor = '#f8f5ed'
 const borderColor = '#777'
-const foregroundColor = 'rgba(239,240,165,0.75)'
-const cursorColor = '#657B83'
+const cursorColor = 'rgba(239,240,165,0.75)'
 
 const colors = [
   '#505050', // Black
