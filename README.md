@@ -1,4 +1,4 @@
-# HyperTerm Zenburn
+# HyperTerm Zenburn Theme
 
 A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http://kippura.org/zenburnpage/) vim theme by Jani Nurminen.
 
@@ -16,10 +16,10 @@ A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http:/
     ...
   ],
   ```
-3. Reload HyperTerm by pressing `Cmd + Shift + R`
+3. (Optional) If it doesn't automatically update, reload HyperTerm by pressing `Cmd + Shift + R`
 
 ### Related Projects
-- [danyim@/Zenburned](https://github.com/danyim/Zenburned/blob/master/.hyperterm.js) - Includes the full `.hyperterm.js` with this theme's settings
+- [danyim@/Zenburned](https://github.com/danyim/Zenburned) - Includes the full `.hyperterm.js` with this theme's settings
 
 
 ### License
