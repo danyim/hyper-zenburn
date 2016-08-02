@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-zenburn2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A hyperterm theme based on the Zenburn theme by Jani Nurminen.",
   "main": "index.js",
   "scripts": {
