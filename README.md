@@ -1,6 +1,6 @@
 # HyperTerm Zenburn Theme
 
-A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http://kippura.org/zenburnpage/) vim theme by Jani Nurminen.
+A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http://kippura.org/zenburnpage/) theme by Jani Nurminen.
 
 ![http://i.imgur.com/vqtk8Bl.png](http://i.imgur.com/vqtk8Bl.png)
 ![http://i.imgur.com/LDkWYzT.png](http://i.imgur.com/LDkWYzT.png)
@@ -23,4 +23,4 @@ A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http:/
 
 
 ### License
-MIT
+MIT &copy; 2016
