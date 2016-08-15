@@ -1,5 +1,8 @@
 # HyperTerm Zenburn Theme
-![https://img.shields.io/npm/v/hyperterm-zenburn2.svg](https://img.shields.io/npm/v/hyperterm-zenburn2.svg)
+<a href="https://www.npmjs.com/package/hyperterm-zenburn2">
+  <img src="https://img.shields.io/npm/v/hyperterm-zenburn2.svg"
+     alt="NPM Package">
+</a>
 
 A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http://kippura.org/zenburnpage/) theme by Jani Nurminen.
 
