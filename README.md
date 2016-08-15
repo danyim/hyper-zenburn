@@ -21,6 +21,7 @@ A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http:/
 
 ### Related Projects
 - [danyim@/Zenburned](https://github.com/danyim/Zenburned) - Includes the full `.hyperterm.js` with this theme's settings
+- Listed in [Awesome HyperTerm](https://github.com/bnb/awesome-hyperterm), a collection of _awesome_ HyperTerm plugins, themes, and resources
 
 
 ### License
