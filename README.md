@@ -10,7 +10,7 @@ A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http:/
 ![http://i.imgur.com/LDkWYzT.png](http://i.imgur.com/LDkWYzT.png)
 
 ### Installation
-1. Open HyperTerm's preferences by pressing `Cmd + ,` or point your text editor to `~/.hyperterm.js`
+1. Open HyperTerm's preferences by pressing <kbd>⌘</kbd> <kbd>,</kbd> or point your text editor to `~/.hyperterm.js`
 2. Add `hyperterm-zenburn2` to the array of HyperTerm plugins.
 
   ```js
@@ -20,7 +20,7 @@ A [HyperTerm](https://hyperterm.org/) theme based on the iconic [Zenburn](http:/
     ...
   ],
   ```
-3. (Optional) If it doesn't automatically update, reload HyperTerm by pressing `Cmd + Shift + R`
+3. (Optional) If it doesn't automatically update, reload HyperTerm by pressing <kbd>⌘</kbd> <kbd>SHIFT</kbd> <kbd>R</kbd>
 
 ### Related Projects
 - [danyim@/Zenburned](https://github.com/danyim/Zenburned) - Includes the full `.hyperterm.js` with this theme's settings
