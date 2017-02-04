@@ -1,6 +1,6 @@
 # Hyper Zenburn Theme
-<a href="https://www.npmjs.com/package/hyper-zenburn2">
-  <img src="https://img.shields.io/npm/v/hyper-zenburn2.svg"
+<a href="https://www.npmjs.com/package/hyper-zenburn">
+  <img src="https://img.shields.io/npm/v/hyper-zenburn.svg"
      alt="NPM Package">
 </a>
 
@@ -11,12 +11,12 @@ A [Hyper](https://hyper.is/) theme based on the iconic [Zenburn](http://kippura.
 
 ### Installation
 1. Open Hyper's preferences by pressing <kbd>⌘</kbd> <kbd>,</kbd> or point your text editor to `~/.hyper.js`
-2. Add `hyper-zenburn2` to the array of Hyper plugins.
+2. Add `hyper-zenburn` to the array of Hyper plugins.
 
   ```js
   plugins: [
     ...
-    'hyper-zenburn2',
+    'hyper-zenburn',
     ...
   ],
   ```
