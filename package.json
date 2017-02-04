@@ -1,14 +1,14 @@
 {
-  "name": "hyperterm-zenburn2",
+  "name": "hyper-zenburn2",
   "version": "1.0.9",
-  "description": "A low-contrast HyperTerm theme based on the Zenburn theme by Jani Nurminen.",
+  "description": "A low-contrast Hyper theme based on the Zenburn theme by Jani Nurminen.",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/danyim/hyperterm-zenburn.git"
+    "url": "git+ssh://git@github.com/danyim/hyper-zenburn.git"
   },
   "keywords": [
     "hyperterm",
@@ -19,7 +19,7 @@
   "author": "Daniel Yim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danyim/hyperterm-zenburn/issues"
+    "url": "https://github.com/danyim/hyper-zenburn/issues"
   },
-  "homepage": "https://github.com/danyim/hyperterm-zenburn#readme"
+  "homepage": "https://github.com/danyim/hyper-zenburn#readme"
 }
